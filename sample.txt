@@ -1,0 +1,30 @@
+git
+git --version
+git --help
+
+then create a folder
+open cmd in folder location
+
+then go to "git clone"
+copy the clone url and paste in url clone repo window
+
+ok
+
+
+creating dotnet core 
+cmd command "dotnet new mvc"    (new=project, mvc=temp)
+
+C:\Users\Shabee\Source\Repos
+
+
+
+ls
+cd
+git init
+git remote add origin <gitlink>
+git remote -v
+git add
+git commit -m "first commit"
+git push origin master
+
+git help
